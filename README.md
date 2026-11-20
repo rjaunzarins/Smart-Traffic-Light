@@ -29,8 +29,11 @@ hardware state. If the software predicted state and the actual
 hardware state do not match, the Arduino signals the hardware to 
 enter the flashing-red fallback mode.
 
-The system includes adaptive traffic timing, pedestrian crossing
-signals, hardware fault detection, and software state verification.
+The system includes vehicle detection, audible detection buzzers
+adaptive traffic timing, pedestrian crossing signals, hardware fault 
+detection, and software state verification. The audible buzzer are
+currently disabled. To enable them in the simulation, uncomment the
+final line in the code.
 
 ## Repository Structure
 
