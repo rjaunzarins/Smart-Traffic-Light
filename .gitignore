@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+.AppleDouble
+._*
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build files
+build/
+*.o
+*.elf
+*.hex
