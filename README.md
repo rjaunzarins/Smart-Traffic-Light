@@ -44,7 +44,7 @@ final line in the code.
 
 ## Simulation
 
-The project was developed and tested using Autodesk Tinkercad Circuits.
+The project was developed and tested using Autodesk Tinkercad Circuits.  
 [View and test the complete Tinkercad simulation](https://www.tinkercad.com/things/io6dZTbmpuM-d-flip-flop-controlled-smart-traffic-light-system)
 
 The Arduino source code requires an Arduino-compatible environment.
